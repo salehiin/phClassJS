@@ -49,3 +49,23 @@ else if(age >= 40){
 else{
     console.log(fare)
 }
+
+// nested if else condition module 17.6
+
+const money = 1000
+if(money > 3000){
+    console.log('Can go Coxs');
+}
+else{
+    if(money > 2000){
+        console.log('Can go Sylhet')
+    }
+    else{
+        if(money > 1000){
+            console.log('Can go Gazipur')
+        }
+        else{
+            console.log('Stay at home')
+        }
+    }
+}
