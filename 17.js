@@ -52,7 +52,7 @@ else{
 
 // nested if else condition module 17.6
 
-const money = 1000
+const money = 3000
 if(money > 3000){
     console.log('Can go Coxs');
 }
@@ -69,3 +69,26 @@ else{
         }
     }
 }
+
+// if else shorthand ternary module 17.7
+
+amount = 3500;
+amount >= 3000 ? console.log('Coxs') : console.log('Stay Home')
+
+//2nd example
+
+land = 500;
+const isLeader = true;
+
+if(isLeader === true){
+    land = 0;
+}
+else{
+    land = land + 100;
+}
+
+land = isLeader === true ? 0 : land + 100; //important 07:30
+
+//Optional ternary
+land = isLeader === true ? land > 1000 ? land/2 : 0 : land + 100; //important (have to clear) 10:00
+
