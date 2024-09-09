@@ -120,7 +120,7 @@ function fullName(first, second){
     const full = first + ' ' + second;
     return full;
 }
-const full = fullName('Zaiyaqn', 'Salehin');
+const full = fullName('Zaiyan', 'Salehin');
 console.log(full);
 
 // Object - don't understand - have to do 
