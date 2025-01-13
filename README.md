@@ -12,3 +12,7 @@
 # 16.8 - +=10/*=3, concat, concept(10:00)
 # 16.9 - reserve keyword, summary
 - hw - intro-to-js-tasks
+
+# 17.1 - comparison - >/</==/>=/<=/!=/&&/||
+# 17.2 - following
+# 17.3 - if(){}, if(){}else{}
