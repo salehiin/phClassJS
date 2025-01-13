@@ -15,4 +15,6 @@
 
 # 17.1 - comparison - >/</==/>=/<=/!=/&&/||
 # 17.2 - following
-# 17.3 - if(){}, if(){}else{}
+# 17.3 - condition - if(){}, if(){}else{}
+# 17.4 - following - if(salary > 20000 && height > 66){}, if(salary > 20000 || height > 66 || isBCS == true){}, if((salary > 20000 && hasCar == true) || isBCS == true){}
+# 17.5 - 
