@@ -29,5 +29,9 @@
 - hw - JS-conditionals-tasks
 - google - making decisions in your code - developer.mozilla.org - have to read
 
-# 17_5.1 - 
+# 17_5.1 - array intro
+# 17_5.2 - length, index of array, set the value of array item
+# 17_5.3 - push, pop, (07:30)something important, shift, unshift
+# 17_5.4 - includes, indexOf, Array.isArray, join, concat, slice, splice
+# HW - js-array-tasks
 
