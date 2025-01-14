@@ -35,3 +35,14 @@
 # 17_5.4 - includes, indexOf, Array.isArray, join, concat, slice, splice
 # HW - js-array-tasks
 
+# 18.1 - loop - for(const num of numbers){}, 11:00
+# 18.2 - while(condition){} - run till the condition true - very important concept
+# 18.3 - num++, use case of while loop - important, while & if
+# hw - js-loop-tasks
+# 18.4 - loop variable/condition/statement/variable change, for(variable ; condition ; change){}, use case of for loop, comparison while & for
+# 18.5 - following, decremental for/while, should watch frequently
+# 18.6 - important concep, loop use case, where to console.log
+# 18.7 - break, continue, where to use n++ 
+# 18.8 - do while loop - do{}while() - whatever the condition is the loop run at least once - rare use
+# 18.9 - important concep
+# hw - js-loop-tasks
