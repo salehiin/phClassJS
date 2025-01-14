@@ -46,3 +46,7 @@
 # 18.8 - do while loop - do{}while() - whatever the condition is the loop run at least once - rare use
 # 18.9 - important concep
 # hw - js-loop-tasks
+
+# 19.1 - string, const thana = new String('Wari') - different type of string, string immutable
+# 19.2 - toLowerCase(), toUpperCase(), trim()
+# 19.3 -    
