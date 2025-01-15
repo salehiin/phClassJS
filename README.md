@@ -54,4 +54,8 @@
 # 19.5 - object intro, object non primitive
 # 19.6 - dot/bracket notation - access/get/set/update value of object, important(07:55)
 # 19.7 - Object.keys(), Object.values(), find the nested value from object, change the nested value from object, delete the nested value from object
-# 19.8 - Object loop - for(const num in numbers){}, 03:00
+# 19.8 - Object loop - for(const prop in mobile){}, very important concep(03:00), should watch very frequently, 4 types object declare
+# 19.9 - summary, array vs object, object declare, dot/bracket notation 
+# hw - js-object-tasks, js-string-tasks
+
+# 19.5_1 - 
