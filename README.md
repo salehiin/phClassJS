@@ -35,7 +35,7 @@
 # 17_5.4 - includes, indexOf, Array.isArray, join, concat, slice, splice
 # HW - js-array-tasks
 
-# 18.1 - loop - for(const num of numbers){}, 11:00
+# 18.1 - Array loop - for(const num of numbers){}, 11:00
 # 18.2 - while(condition){} - run till the condition true - very important concept
 # 18.3 - num++, use case of while loop - important, while & if
 # hw - js-loop-tasks
@@ -52,4 +52,6 @@
 # 19.3 - slice(), split(), join(), concat(), includes()
 # 19.4 - reverse
 # 19.5 - object intro, object non primitive
-# 19.6 - dot/bracket notation - access/get/set/update value of object, important(07:55)   
+# 19.6 - dot/bracket notation - access/get/set/update value of object, important(07:55)
+# 19.7 - Object.keys(), Object.values(), find the nested value from object, change the nested value from object, delete the nested value from object
+# 19.8 - Object loop - for(const num in numbers){}, 03:00
