@@ -49,4 +49,7 @@
 
 # 19.1 - string, const thana = new String('Wari') - different type of string, string immutable
 # 19.2 - toLowerCase(), toUpperCase(), trim()
-# 19.3 -    
+# 19.3 - slice(), split(), join(), concat(), includes()
+# 19.4 - reverse
+# 19.5 - object intro, object non primitive
+# 19.6 - dot/bracket notation - access/get/set/update value of object, important(07:55)   
