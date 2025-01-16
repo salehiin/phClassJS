@@ -65,4 +65,6 @@
 # - ASCII - BINARY CHARACTER TABLE 
 # 19.5_4 - hw - array-looping-tasks
 
-# 20.1 - 
+# 20.1 - function doSomething(){}, doSomething()
+# 20.2 - how parameter works - important concep, declared & called parameter should same
+# 20.3 - 
