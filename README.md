@@ -67,4 +67,8 @@
 
 # 20.1 - function doSomething(){}, doSomething()
 # 20.2 - how parameter works - important concep, declared & called parameter should same
-# 20.3 - 
+# 20.3 - parameter - argument, argument/parameter set in a variable
+# 20.4 - return - very very important concept
+# 20.5 - return more, return different use case, return condition
+# 20.6 - Different types of parameters of a function, return different use case, important concep, object as parameter
+# 20.7 - 
