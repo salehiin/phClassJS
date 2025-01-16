@@ -58,4 +58,11 @@
 # 19.9 - summary, array vs object, object declare, dot/bracket notation 
 # hw - js-object-tasks, js-string-tasks
 
-# 19.5_1 - 
+# 19.5_1 - loop - for, while, do while, for of - array, for in - object, 
+# for(let i=0; i<friends.length; i++){console.log(); console.log(i); console.log(friends[i]);}, <- same using while loop - watch frequently
+# 19.5_2 - reverse(), reverse using - for/for of & unshift, concep, run reverse loop
+# 19.5_3 - sort(), concep
+# - ASCII - BINARY CHARACTER TABLE 
+# 19.5_4 - hw - array-looping-tasks
+
+# 20.1 - 
