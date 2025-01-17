@@ -71,4 +71,9 @@
 # 20.4 - return - very very important concept
 # 20.5 - return more, return different use case, return condition
 # 20.6 - Different types of parameters of a function, return different use case, important concep, object as parameter
-# 20.7 - 
+# 20.7 - sum of array function, very important concept - where to return, how to debug
+# 20.8 - sum of even numbers function
+# 20.9 - summary of function, hw
+# hw - js-function-practice-tasks
+
+# 21.1 -
