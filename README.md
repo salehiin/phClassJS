@@ -77,4 +77,12 @@
 # hw - js-function-practice-tasks
 
 # 21.1 - recap - variable, conditionals, array, loop, object, function, something important of array & object
-# 22.2 -  
+# 21.2 - use case of function - conversion - inch/mile
+# 21.3 - use case of function - check leapyear 
+# 21.4 - use case of function -  average of odd/even numbers, function->loop->condition
+# 21.5 - use case of function - remove duplicate items from array
+# 21.6 - js built in function - Math.min/max/PI/abs/floor/ceil/round/random
+# 21.7 - Date(), date.getDay(), moment.js important concep about date
+# 21.8 - swap value of variables
+# 21.9 - recap
+# hw - js-problems-part1-practice-tasks
