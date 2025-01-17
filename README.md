@@ -76,4 +76,5 @@
 # 20.9 - summary of function, hw
 # hw - js-function-practice-tasks
 
-# 21.1 -
+# 21.1 - recap - variable, conditionals, array, loop, object, function, something important of array & object
+# 22.2 -  
