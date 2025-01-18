@@ -86,3 +86,12 @@
 # 21.8 - swap value of variables
 # 21.9 - recap
 # hw - js-problems-part1-practice-tasks
+
+# 22.1 - problem solve with js, get bigger number
+# 22.2 - problem solve with js, get tallest from array, very important concep - where to store data after each loop - have to do, hw
+# 22.3 - problem solve with js, get total quantity/amount 
+# 22.4 - problem solve with js, get cheap item, very very important - related to project - have to do
+# 22.4 - problem solve with js, get cheap item, very very important - related to project - have to do
+# 22.5 - problem solve with js, total cost of shopping cart items
+# 22.6 - problem solve with js, discount calculate
+# 22.7 -
