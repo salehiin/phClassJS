@@ -94,4 +94,9 @@
 # 22.4 - problem solve with js, get cheap item, very very important - related to project - have to do
 # 22.5 - problem solve with js, total cost of shopping cart items
 # 22.6 - problem solve with js, discount calculate
-# 22.7 -
+# 22.7 - problem solve with js, build calculator function inside function
+# 22.8 - validation check - is it number, array, string, object etc.? - have to watch again
+# 22.9 - 
+# hw - js-problems-part2-practice-tasks
+
+# 23_5.1 - 
