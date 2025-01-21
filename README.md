@@ -99,4 +99,15 @@
 # 22.9 - 
 # hw - js-problems-part2-practice-tasks
 
-# 23_5.1 - 
+# 23_5.1 - object in object in object/array, call function from object, object have features or can do something, object in array, object like array, arguments - array like object - find inside object only
+# 23_5.2 - for, for of, very important(08:16), indexof, includes, raw search functionality, toLowerCase
+# 23_5.3 - important speech
+
+const products = [
+    {id: 1, name: "Nokia"},
+    {id: 2, name: "Samsung"},
+    {id: 3, name: "Motorolla"}
+]
+for(product of products){
+    console.log(product)
+}
